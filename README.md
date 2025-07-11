@@ -14,8 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subbasini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0162-find-peak-element](https://github.com/Subbasini/Leetcode/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subbasini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Subbasini/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
