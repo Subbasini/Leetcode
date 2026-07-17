@@ -7,6 +7,6 @@ class Solution:
                 return [l+1,r+1]
             if target<total:
                 r-=1
-            else:
+            elif target>total:
                 l+=1
 
