@@ -5,7 +5,7 @@ class Solution:
             total= numbers[l]+numbers[r]
             if total==target:
                 return [l+1,r+1]
-            elif target<total:
+            if target<total:
                 r-=1
             else:
                 l+=1
